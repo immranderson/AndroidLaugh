@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Title">Laugh!</string>
+    <string name="app_name">Laugh</string>
+    <string name="laugh_label">Time To Laugh!</string>
+    <string name="credit_label">Credits</string>
+    <string name="laugh_title">Laugh</string>
+    <string name="credits_title">Credits</string>
+    <string name="credits_content">Created and Recorded by Tom Anderson. Credit goes to my brother, Serban, whom pushed me in the proper direction when it came to making my first android app!
+        Also much thanks goes to my Nanchan... without her, I would have never learned about the secret Japanese laugh!</string>
+    <string name="laugh_audio_title">Laugh Audio</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/beach"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/laugh_button"
+        style="@android:style/ButtonBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="30dp"
+        android:fadingEdge="vertical"
+        android:text="@string/laugh_label" />
+
+    <Button
+        android:id="@+id/credits_button"
+        style="@android:style/ButtonBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/credit_label" />
+
+</LinearLayout>
